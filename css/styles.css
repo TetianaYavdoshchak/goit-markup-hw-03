@@ -78,6 +78,8 @@ img {
 }
 .nav-list {
   display: flex;
+}
+.menu-nav .nav-list {
   margin-left: 93px;
 }
 .nav-list .item + .item {
@@ -153,7 +155,8 @@ img {
 }
 /* section */
 .section {
-  padding: 94px;
+  padding-top: 94px;
+  padding-bottom: 94px;
 }
 .section-title,
 .title {
